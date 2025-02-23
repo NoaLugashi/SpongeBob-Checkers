@@ -25,6 +25,9 @@ Technologies Used:
 
 
 How to Play:
+
 1️⃣ Open the solution in Visual Studio
+
 2️⃣ Run either the Console version or the Windows Forms version
+
 3️⃣ Select game settings & start playing!
