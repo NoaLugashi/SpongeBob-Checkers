@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\A25 Ex05 NoaLugashi 323835900 LielAvta 214287732\CheckersGameLogic\bin\Debug\CheckersGameLogic.dll.config
+C:\Users\user\Desktop\A25 Ex05 NoaLugashi 323835900 LielAvta 214287732\CheckersGameLogic\bin\Debug\CheckersGameLogic.dll
+C:\Users\user\Desktop\A25 Ex05 NoaLugashi 323835900 LielAvta 214287732\CheckersGameLogic\bin\Debug\CheckersGameLogic.pdb
+C:\Users\user\Desktop\A25 Ex05 NoaLugashi 323835900 LielAvta 214287732\CheckersGameLogic\obj\Debug\CheckersGameLogic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\A25 Ex05 NoaLugashi 323835900 LielAvta 214287732\CheckersGameLogic\obj\Debug\CheckersGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A25 Ex05 NoaLugashi 323835900 LielAvta 214287732\CheckersGameLogic\obj\Debug\CheckersGameLogic.dll
+C:\Users\user\Desktop\A25 Ex05 NoaLugashi 323835900 LielAvta 214287732\CheckersGameLogic\obj\Debug\CheckersGameLogic.pdb
